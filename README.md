@@ -3,7 +3,7 @@
 ### Installation
 <pre>
 cd /home
-git clone https://github.com/kiryun/Docker-practice
+git clone https://github.com/ParkTaeKwang/Docker-practice
 cd Docker-Practice
 </pre>
 ### Run
