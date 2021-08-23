@@ -11,5 +11,5 @@ cd Docker-Practice
 # Login For private docker repository
 docker login
 docker pull wimes/docker-practice
-docker run -p 80:80 -v /home/Docker-practice/Project:/var/www/html wimes/docker-practice
+docker run -p 80:80 -v /home/Docker-practice/Project:/var/www/html kopi2642/docker-practice
 </pre>
